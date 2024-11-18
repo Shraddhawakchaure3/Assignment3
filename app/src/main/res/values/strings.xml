@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Custom App</string>
+    <string name="text1">Hello World!</string>
+    <string name="text2">Welcome to the Second Screen</string>
+    <string name="text3">This is text 3</string>
+    <string name="text4">This is text 4</string>
+    <string name="text5">This is text 5</string>
+</resources>
